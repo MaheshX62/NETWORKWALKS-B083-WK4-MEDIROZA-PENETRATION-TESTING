@@ -1,0 +1,19 @@
+# Sensitive pentesting artifacts
+*.sql
+*.pdf
+*.pcap
+*.pcapng
+*.hash
+*.pot
+*.key
+*.pem
+.env
+
+# Raw evidence
+evidence/raw/
+evidence/screenshots/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
